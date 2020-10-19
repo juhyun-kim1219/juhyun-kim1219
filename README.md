@@ -2,7 +2,7 @@ hi im juhyun-kim. im korean student
 i like coding and computers.
 i want programming
 but i dont programming//i can smalling coding...😄
-i want from the 
+i want from the github, up my coding ability
 
 <!--
 **juhyun-kim1219/juhyun-kim1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
